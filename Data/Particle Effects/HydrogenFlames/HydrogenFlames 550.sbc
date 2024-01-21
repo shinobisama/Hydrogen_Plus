@@ -118,9 +118,9 @@
                 <Key>
                   <Time>0</Time>
                   <ValueVector3>
-                    <X>0</X>
-                    <Y>0</Y>
-                    <Z>0</Z>
+                    <X>1</X>
+                    <Y>1</Y>
+                    <Z>1</Z>
                   </ValueVector3>
                   <Value2D />
                 </Key>
@@ -227,7 +227,7 @@
                     <Keys>
                       <Key>
                         <Time>0</Time>
-                        <ValueFloat>1.5</ValueFloat>
+                        <ValueFloat>3.5</ValueFloat>
                         <Value2D />
                       </Key>
                       <Key>
@@ -312,7 +312,7 @@
               <ValueVector3>
                 <X>0</X>
                 <Y>0</Y>
-                <Z>-1.5</Z>
+                <Z>-5</Z>
               </ValueVector3>
             </Property>
             <Property AnimationType="Const" Name="Rotation velocity var" Type="Float">
@@ -676,7 +676,7 @@
                     <Keys>
                       <Key>
                         <Time>0</Time>
-                        <ValueFloat>1.3</ValueFloat>
+                        <ValueFloat>2.3</ValueFloat>
                         <Value2D />
                       </Key>
                       <Key>
@@ -705,7 +705,7 @@
               </Keys>
             </Property>
             <Property AnimationType="Const" Name="Life" Type="Float">
-              <ValueFloat>0.8</ValueFloat>
+              <ValueFloat>1.2</ValueFloat>
             </Property>
             <Property AnimationType="Const" Name="Soft particle distance scale" Type="Float">
               <ValueFloat>1</ValueFloat>
@@ -756,7 +756,7 @@
               <ValueVector3>
                 <X>0</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>-4.8</Z>
               </ValueVector3>
             </Property>
             <Property AnimationType="Const" Name="Rotation velocity var" Type="Float">
@@ -1115,17 +1115,17 @@
                     <Keys>
                       <Key>
                         <Time>0</Time>
+                        <ValueFloat>2</ValueFloat>
+                        <Value2D />
+                      </Key>
+                      <Key>
+                        <Time>0.843642</Time>
                         <ValueFloat>1</ValueFloat>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.9447597</Time>
-                        <ValueFloat>0.75</ValueFloat>
-                        <Value2D />
-                      </Key>
-                      <Key>
-                        <Time>0.9752914</Time>
-                        <ValueFloat>0.25</ValueFloat>
+                        <Time>0.951559663</Time>
+                        <ValueFloat>0.5</ValueFloat>
                         <Value2D />
                       </Key>
                       <Key>
@@ -1139,7 +1139,7 @@
               </Keys>
             </Property>
             <Property AnimationType="Const" Name="Life" Type="Float">
-              <ValueFloat>0.3</ValueFloat>
+              <ValueFloat>0.42</ValueFloat>
             </Property>
             <Property AnimationType="Const" Name="Soft particle distance scale" Type="Float">
               <ValueFloat>2</ValueFloat>
@@ -1190,7 +1190,7 @@
               <ValueVector3>
                 <X>0</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>-4.3</Z>
               </ValueVector3>
             </Property>
             <Property AnimationType="Const" Name="Rotation velocity var" Type="Float">
